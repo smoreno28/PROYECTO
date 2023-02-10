@@ -1,4 +1,4 @@
-# iDEAS PROYECTO
+# IDEAS PROYECTO
 Se proponen las siguientes ideas de applicación para el proyecto
 ##  IDEA 1: Juego para niños
    Una app para probar la memoria de los niños con el fin de que aprendan las figuras geometricas y los colores principales y sus deribados.
