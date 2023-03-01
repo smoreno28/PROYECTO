@@ -7,3 +7,5 @@ tiene como objetivo el aprendizaje a través de la estimulación sensorial y el 
 3. Interactuar con los colores y las figuras
 4. Tendrán un usuario 
 5. Mostrará cuando sale error
+6. menú de las funciones de la empresa
+7. 
