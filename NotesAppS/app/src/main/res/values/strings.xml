@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesAppS</string>
+    <string name="notes">Mis Notas</string>
+    <string name="notes_title">Titulo</string>
+    <string name="notes_sub_title">SubTitulo</string>
+    <string name="notes_desc">Ingrese la nota aqui</string>
+    <string name="web_url">Ingrese URL</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="storage_permission_text">Esta aplicacion necesita accerder a su almacenamiento.</string>
+    <string name="search">Buscar</string>
+</resources>
